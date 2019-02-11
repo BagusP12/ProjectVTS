@@ -1,0 +1,4 @@
+#Configuration
+server=http://192.168.0.14/VTS/index.php/
+smartfox_server=192.168.0.14
+smartfox_port=9933
